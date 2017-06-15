@@ -1126,3 +1126,109 @@ LogInit: Object subsystem initialized
 [2017.06.15-13.31.22:521][991]LogSavePackage: Save=15.13ms
 [2017.06.15-13.31.22:521][991]LogSavePackage: Moving 'C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/SM_MERGED_flower_bloom_727A1C240643ADB7408949C2A7D4648FA8.tmp' to 'C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Content/Models/flower/SM_MERGED_flower_bloom_72.uasset'
 [2017.06.15-13.31.22:524][991]LogSavePackage:Display: Finished SavePackage C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Content/Models/flower/SM_MERGED_flower_bloom_72.uasset
+[2017.06.15-13.51.22:884][433]LogEditorFactories: Performing atomic reimport of [C:/Users/Ptolemaios/Dropbox/legend_of_zelda_project/src/Models/vase_big/vase_big.fbx]
+[2017.06.15-13.51.22:915][433]LogFbx: Loading FBX Scene from C:/Users/Ptolemaios/Dropbox/legend_of_zelda_project/src/Models/vase_big/vase_big.fbx
+[2017.06.15-13.51.22:928][433]LogFbx: FBX Scene Loaded Succesfully
+[2017.06.15-13.51.22:935][433]LogFbx:Warning: Triangulating static mesh vase_big.002
+[2017.06.15-13.51.23:567][433]LogStaticMesh: Building static mesh vase_big_vase_big...
+[2017.06.15-13.51.23:594][433]LogStaticMesh: Built static mesh [0.03s] /Game/Models/vase_big/vase_big_vase_big.vase_big_vase_big
+[2017.06.15-13.51.23:615][433]LogEditorFactories: -- imported successfully
+[2017.06.15-13.51.23:616][433]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.06.15-13.51.43:312][816]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.06.15-13.51.43:313][816]LogMaterial:Warning: Failed to compile Material /Game/Models/vase_big/Material.Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.06.15-13.51.43:313][816]LogMaterial:Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.06.15-13.51.43:313][816]LogMaterial:Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (0 / 0)
+[2017.06.15-13.51.54:735][ 33]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Ptolemaios\Dropbox\legend_of_zelda_project\src\Models\vase_big\vase_big.fbx)
+[2017.06.15-13.51.54:746][ 33]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.06.15-13.51.54:746][ 33]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.06.15-13.51.54:746][ 33]LogFbx: ItemName: Model, ItemCount : 1
+[2017.06.15-13.51.54:746][ 33]LogFbx: ItemName: Material, ItemCount : 2
+[2017.06.15-13.51.54:746][ 33]LogFbx: ItemName: Texture, ItemCount : 1
+[2017.06.15-13.51.54:746][ 33]LogFbx: ItemName: Video, ItemCount : 1
+[2017.06.15-13.51.54:757][ 33]LogFbx: Loading FBX Scene from C:\Users\Ptolemaios\Dropbox\legend_of_zelda_project\src\Models\vase_big\vase_big.fbx
+[2017.06.15-13.51.54:769][ 33]LogFbx: FBX Scene Loaded Succesfully
+[2017.06.15-13.51.57:322][ 33]LogFbx: Loading FBX Scene from C:\Users\Ptolemaios\Dropbox\legend_of_zelda_project\src\Models\vase_big\vase_big.fbx
+[2017.06.15-13.51.57:333][ 33]LogFbx: FBX Scene Loaded Succesfully
+[2017.06.15-13.51.57:337][ 33]LogLinker: Can't find file '/Game/Models/vase_big/outer_001'
+[2017.06.15-13.51.57:337][ 33]LogLinker: Can't find file '/Game/Models/vase_big/outer_001'
+[2017.06.15-13.51.57:340][ 33]LogLinker: Can't find file '/Game/Models/vase_big/diffuse'
+[2017.06.15-13.51.57:341][ 33]LogLinker: Can't find file '/Game/Models/vase_big/diffuse'
+[2017.06.15-13.51.57:358][ 33]LogTexture:Display: Building textures: diffuse (AutoDXT, 256X512)
+[2017.06.15-13.51.57:415][ 33]LogMaterial: Missing cached shader map for material outer_001, compiling. 
+[2017.06.15-13.51.57:441][ 33]LogLinker: Can't find file '/Game/Models/vase_big/Material'
+[2017.06.15-13.51.57:441][ 33]LogLinker: Can't find file '/Game/Models/vase_big/Material'
+[2017.06.15-13.51.57:448][ 33]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.06.15-13.51.57:476][ 33]LogFbx:Warning: Triangulating static mesh vase_big.002
+[2017.06.15-13.51.58:151][ 33]LogStaticMesh: Building static mesh vase_big...
+[2017.06.15-13.51.58:178][ 33]LogStaticMesh: Built static mesh [0.03s] /Game/Models/vase_big/vase_big.vase_big
+[2017.06.15-13.51.58:207][ 33]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.06.15-13.52.03:299][363]LogActorFactory: Actor Factory created vase_big
+[2017.06.15-13.52.04:263][422]LogActorFactory: Actor Factory created vase_big
+[2017.06.15-13.52.30:982][390]Cmd: TRANSACTION UNDO
+[2017.06.15-13.52.30:982][390]LogEditorTransaction: Undo Move Actors
+[2017.06.15-13.52.31:697][434]Cmd: TRANSACTION UNDO
+[2017.06.15-13.52.31:697][434]LogEditorTransaction: Undo Create Actors
+[2017.06.15-13.52.34:510][638]LogActorFactory: Actor Factory created vase_big
+[2017.06.15-13.52.35:223][687]LogActorFactory: Actor Factory created vase_big
+[2017.06.15-13.52.41:843][167]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.06.15-13.52.41:947][167]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.06.15-13.52.41:970][167]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.06.15-13.52.42:019][167]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.06.15-13.52.47:768][417]MaterialEditorStats: Info Base pass shader: 80 instructions
+[2017.06.15-13.52.47:768][417]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.06.15-13.52.47:768][417]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.06.15-13.52.59:055][887]LogMaterial: Missing cached shader map for material outer_001, compiling. 
+[2017.06.15-13.52.59:145][887]LogMaterial: Missing cached shader map for material outer_001, compiling. 
+[2017.06.15-13.52.59:167][887]LogMaterial: Missing cached shader map for material outer_001, compiling. 
+[2017.06.15-13.52.59:213][887]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.06.15-13.53.02:887][ 21]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2017.06.15-13.53.02:887][ 21]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.06.15-13.53.02:887][ 21]MaterialEditorStats: Info Texture samplers: 2/16
+[2017.06.15-13.53.02:887][ 21]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.06.15-13.53.10:027][359]LogMaterial: Missing cached shader map for material outer_001, compiling. 
+[2017.06.15-13.53.12:718][487]LogMaterial: Missing cached shader map for material outer_001, compiling. 
+[2017.06.15-13.53.12:743][487]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.06.15-13.53.17:879][728]MaterialEditorStats: Info Base pass shader: 81 instructions
+[2017.06.15-13.53.17:879][728]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.06.15-13.53.17:879][728]MaterialEditorStats: Info Texture samplers: 2/16
+[2017.06.15-13.53.17:879][728]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.06.15-13.53.18:067][736]LogMaterial: Missing cached shader map for material outer_001, compiling. 
+[2017.06.15-13.53.23:909][ 10]LogMaterialEditor: Saving and Compiling material outer_001
+[2017.06.15-13.53.25:614][ 10]LogMaterial: Missing cached shader map for material outer_001, compiling. 
+[2017.06.15-13.53.25:680][ 10]LogMaterial: Missing cached shader map for material outer_001, compiling. 
+[2017.06.15-13.53.25:718][ 10]LogMaterial: Missing cached shader map for material outer_001, compiling. 
+[2017.06.15-13.53.25:768][ 10]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy outer_001, compiling. 
+[2017.06.15-13.53.27:450][ 10]TextureStreamingBuild:Display: Compiling optional shaders took 1.691 seconds.
+[2017.06.15-13.53.30:218][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/vase_big/outer_001" FILE="C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Content/Models/vase_big/outer_001.uasset" SILENT=true
+[2017.06.15-13.53.30:238][ 10]LogSavePackage: Save=18.37ms
+[2017.06.15-13.53.30:238][ 10]LogSavePackage: Moving 'C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/outer_001FFFA03454EE3522962C740BAA5715583.tmp' to 'C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Content/Models/vase_big/outer_001.uasset'
+[2017.06.15-13.53.30:242][ 10]LogSavePackage:Display: Finished SavePackage C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Content/Models/vase_big/outer_001.uasset
+[2017.06.15-13.53.30:256][ 10]MaterialEditorStats: Info Base pass shader: 82 instructions
+[2017.06.15-13.53.30:256][ 10]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.06.15-13.53.30:256][ 10]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.06.15-13.53.30:256][ 10]MaterialEditorStats: Info User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.06.15-13.54.07:266][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Island" FILE="C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/Autosaves/Game/Maps/Island_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.06.15-13.54.07:406][991]LogSavePackage: Save=134.02ms
+[2017.06.15-13.54.07:407][991]LogSavePackage: Moving 'C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/Island_Auto381079F964868A4490B67CFA7B15CE7F1.tmp' to 'C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/Autosaves/Game/Maps/Island_Auto3.umap'
+[2017.06.15-13.54.07:410][991]LogSavePackage:Display: Finished SavePackage C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/Autosaves/Game/Maps/Island_Auto3.umap
+[2017.06.15-13.54.07:412][991]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Island' took 0.168
+[2017.06.15-13.54.07:412][991]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.168
+[2017.06.15-13.54.07:417][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/vase_big/diffuse] ([1] browsable assets)...
+[2017.06.15-13.54.07:427][991]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/vase_big/diffuse.diffuse]
+[2017.06.15-13.54.07:427][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/vase_big/diffuse]
+[2017.06.15-13.54.07:435][991]LogSavePackage: Save=6.67ms
+[2017.06.15-13.54.07:435][991]LogSavePackage: Moving 'C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/diffuse_Auto31BCF5F124086455FA434D2811385B43A.tmp' to 'C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/Autosaves/Game/Models/vase_big/diffuse_Auto3.uasset'
+[2017.06.15-13.54.07:437][991]LogSavePackage:Display: Finished SavePackage C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/Autosaves/Game/Models/vase_big/diffuse_Auto3.uasset
+[2017.06.15-13.54.07:438][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/vase_big/vase_big] ([1] browsable assets)...
+[2017.06.15-13.54.07:485][991]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/vase_big/vase_big.vase_big]
+[2017.06.15-13.54.07:485][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/vase_big/vase_big]
+[2017.06.15-13.54.07:504][991]LogSavePackage: Save=16.90ms
+[2017.06.15-13.54.07:504][991]LogSavePackage: Moving 'C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/vase_big_Auto39102E9704F7D5DDCD9FDFBB5F2EB6682.tmp' to 'C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/Autosaves/Game/Models/vase_big/vase_big_Auto3.uasset'
+[2017.06.15-13.54.07:506][991]LogSavePackage:Display: Finished SavePackage C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/Autosaves/Game/Models/vase_big/vase_big_Auto3.uasset
+[2017.06.15-13.54.07:507][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/vase_big/Material] ([1] browsable assets)...
+[2017.06.15-13.54.07:552][991]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/vase_big/Material.Material]
+[2017.06.15-13.54.07:552][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/vase_big/Material]
+[2017.06.15-13.54.07:571][991]LogSavePackage: Save=16.73ms
+[2017.06.15-13.54.07:571][991]LogSavePackage: Moving 'C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/Material_Auto30CCD3B6141AF572F62785EBB04CCADC4.tmp' to 'C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/Autosaves/Game/Models/vase_big/Material_Auto3.uasset'
+[2017.06.15-13.54.07:573][991]LogSavePackage:Display: Finished SavePackage C:/Users/Ptolemaios/Documents/GitHub/ZeldaRevolution/Saved/Autosaves/Game/Models/vase_big/Material_Auto3.uasset
+[2017.06.15-13.54.07:573][991]LogFileHelpers: Auto-saving content packages took 0.158
