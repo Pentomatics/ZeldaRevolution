@@ -16,3 +16,6 @@ Textures: "Hypatia’s Hi-Res Wind Waker Texture Pack Version 1.0"
 Music: "The Legend of Zelda: The Wind Waker Original Soundtrack"
 Sound effects: "The Legend of Zelda: The Wind Waker"
 Font: "Triforce" (http://www.dafont.com/triforce.font)
+
+
+* 2017-06-23 *
