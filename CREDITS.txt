@@ -8,6 +8,7 @@ Testing:
 
 - Anonymous
 - katharina
+- sentinent
 
 External assets:
 
