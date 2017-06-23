@@ -18,4 +18,4 @@ Sound effects: "The Legend of Zelda: The Wind Waker"
 Font: "Triforce" (http://www.dafont.com/triforce.font)
 
 
-2017-06-23
+* 2017-06-23 *
